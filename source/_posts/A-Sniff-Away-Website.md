@@ -4,7 +4,7 @@ date: 2017-08-02 12:21:06
 tags: webdev
 ---
 
-<a href="https://www.asniffaway.org" target="_blank"><img class="portfolio-pics" src="/beans-blog/images/asniffaway-screenshot.png" alt="ASAF Page"></a>
+<a href="https://www.asniffaway.org" target="_blank"><img class="portfolio-pics" src="/images/asniffaway-screenshot.png" alt="ASAF Page"></a>
 
 I built this website for a client who is starting a nonprofit organization for dogs that can detect cancer. Pretty cool!
 

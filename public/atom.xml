@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>_helloben</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hellooben.github.io/"/>
+  <updated>2017-08-03T18:22:10.000Z</updated>
+  <id>https://hellooben.github.io/</id>
+  
+  <author>
+    <name>Ben Bailey</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Volunteer Platform Page</title>
+    <link href="https://hellooben.github.io/2017/08/02/Volunteer-Platform-Page/"/>
+    <id>https://hellooben.github.io/2017/08/02/Volunteer-Platform-Page/</id>
+    <published>2017-08-02T16:45:14.000Z</published>
+    <updated>2017-08-03T18:22:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://rightclickdesign.co/volunteer-platform" target="_blank"><img class="portfolio-pics" src="/images/vp-screenshot.png" alt="VP Page"></a></p>
+<p>This page was built to showcase a new program that I helped kickstart at Right Click Design this summer! We have combined the benefits of a few different software services to create a volunteer system to help nonprofit organizations.</p>
+<p>I built this page with Squarespace as an additional page to the Right Click Design website.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://rightclickdesign.co/volunteer-platform&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;portfolio-pics&quot; src=&quot;/images/vp-screenshot.png&quot; alt=
+    
+    </summary>
+    
+    
+      <category term="webdev" scheme="https://hellooben.github.io/tags/webdev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Sniff Away Website</title>
+    <link href="https://hellooben.github.io/2017/08/02/A-Sniff-Away-Website/"/>
+    <id>https://hellooben.github.io/2017/08/02/A-Sniff-Away-Website/</id>
+    <published>2017-08-02T16:21:06.000Z</published>
+    <updated>2017-08-03T18:21:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.asniffaway.org" target="_blank"><img class="portfolio-pics" src="/images/asniffaway-screenshot.png" alt="ASAF Page"></a></p>
+<p>I built this website for a client who is starting a nonprofit organization for dogs that can detect cancer. Pretty cool!</p>
+<p>The site is my first website in WordPress, which I chose so that the client would be able to make small changes without having to go through me. After finishing this project, I have come to the conclusion that I definitely prefer working with custom HTML and CSS because of the freedom it provides. However, this project was fun and I think it turned out well!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://www.asniffaway.org&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;portfolio-pics&quot; src=&quot;/images/asniffaway-screenshot.png&quot; alt=&quot;ASAF Page&quot;&gt;
+    
+    </summary>
+    
+    
+      <category term="webdev" scheme="https://hellooben.github.io/tags/webdev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AAIA Landing Page</title>
+    <link href="https://hellooben.github.io/2017/08/02/AAIA-Landing-Page/"/>
+    <id>https://hellooben.github.io/2017/08/02/AAIA-Landing-Page/</id>
+    <published>2017-08-02T14:15:23.000Z</published>
+    <updated>2017-08-03T18:22:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://appalachianinvestors.com/" target="_blank"><img class="portfolio-pics" src="/images/aaia-screenshot.png" alt="AAIA Page"></a><br>The first real project of my summer internship was this landing page, with additional info pages, for the Appalachian Angel Investor Alliance.</p>
+<p>The project was built with a landing page template pulled from <a href="https://elements.envato.com/web-templates/landing-page-templates/" target="_blank" rel="external">elements.envato.com</a>. From there, custom HTMl, CSS, and Javascript was applied to perfection. Apart from some small pieces of copy that I’m still waiting on from the client, the site is finished! Have a look by clicking on the photo above.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://appalachianinvestors.com/&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;portfolio-pics&quot; src=&quot;/images/aaia-screenshot.png&quot; alt=&quot;AAIA Page&quot;
+    
+    </summary>
+    
+    
+      <category term="webdev" scheme="https://hellooben.github.io/tags/webdev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hellooben.github.io/2017/07/26/hello-world/"/>
+    <id>https://hellooben.github.io/2017/07/26/hello-world/</id>
+    <published>2017-07-26T18:15:50.000Z</published>
+    <updated>2017-07-26T18:15:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
