@@ -4,9 +4,9 @@
   
   <link href="/beans-blog/atom.xml" rel="self"/>
   
-  <link href="https://hellooben.github.io/"/>
+  <link href="https://hellooben.github.io/beans-blog/"/>
   <updated>2017-08-03T18:42:58.000Z</updated>
-  <id>https://hellooben.github.io/</id>
+  <id>https://hellooben.github.io/beans-blog/</id>
   
   <author>
     <name>Ben Bailey</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hellooben.github.io/2017/08/03/hello-world/"/>
-    <id>https://hellooben.github.io/2017/08/03/hello-world/</id>
+    <link href="https://hellooben.github.io/beans-blog/2017/08/03/hello-world/"/>
+    <id>https://hellooben.github.io/beans-blog/2017/08/03/hello-world/</id>
     <published>2017-08-03T18:42:58.000Z</published>
     <updated>2017-08-03T18:42:58.000Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>Volunteer Platform Page</title>
-    <link href="https://hellooben.github.io/2017/08/02/Volunteer-Platform-Page/"/>
-    <id>https://hellooben.github.io/2017/08/02/Volunteer-Platform-Page/</id>
+    <link href="https://hellooben.github.io/beans-blog/2017/08/02/Volunteer-Platform-Page/"/>
+    <id>https://hellooben.github.io/beans-blog/2017/08/02/Volunteer-Platform-Page/</id>
     <published>2017-08-02T16:45:14.000Z</published>
     <updated>2017-08-03T18:56:44.000Z</updated>
     
@@ -61,16 +61,16 @@
     </summary>
     
     
-      <category term="webdev" scheme="https://hellooben.github.io/tags/webdev/"/>
+      <category term="webdev" scheme="https://hellooben.github.io/beans-blog/tags/webdev/"/>
     
   </entry>
   
   <entry>
     <title>A Sniff Away Website</title>
-    <link href="https://hellooben.github.io/2017/08/02/A-Sniff-Away-Website/"/>
-    <id>https://hellooben.github.io/2017/08/02/A-Sniff-Away-Website/</id>
+    <link href="https://hellooben.github.io/beans-blog/2017/08/02/A-Sniff-Away-Website/"/>
+    <id>https://hellooben.github.io/beans-blog/2017/08/02/A-Sniff-Away-Website/</id>
     <published>2017-08-02T16:21:06.000Z</published>
-    <updated>2017-08-03T18:56:38.000Z</updated>
+    <updated>2017-08-04T14:32:39.000Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://www.asniffaway.org" target="_blank"><img class="portfolio-pics" src="/beans-blog/images/asniffaway-screenshot.png" alt="ASAF Page"></a></p>
 <p>I built this website for a client who is starting a nonprofit organization for dogs that can detect cancer. Pretty cool!</p>
@@ -84,14 +84,14 @@
     </summary>
     
     
-      <category term="webdev" scheme="https://hellooben.github.io/tags/webdev/"/>
+      <category term="webdev" scheme="https://hellooben.github.io/beans-blog/tags/webdev/"/>
     
   </entry>
   
   <entry>
     <title>AAIA Landing Page</title>
-    <link href="https://hellooben.github.io/2017/08/02/AAIA-Landing-Page/"/>
-    <id>https://hellooben.github.io/2017/08/02/AAIA-Landing-Page/</id>
+    <link href="https://hellooben.github.io/beans-blog/2017/08/02/AAIA-Landing-Page/"/>
+    <id>https://hellooben.github.io/beans-blog/2017/08/02/AAIA-Landing-Page/</id>
     <published>2017-08-02T14:15:23.000Z</published>
     <updated>2017-08-03T18:56:50.000Z</updated>
     
@@ -106,7 +106,7 @@
     </summary>
     
     
-      <category term="webdev" scheme="https://hellooben.github.io/tags/webdev/"/>
+      <category term="webdev" scheme="https://hellooben.github.io/beans-blog/tags/webdev/"/>
     
   </entry>
   
