@@ -185,6 +185,40 @@ li
   transition: all 0.7s ease-in-out
 #profile-pic:hover
   background-image: url('/beans-blog/images/lion.png')
+.scroller
+  font-size: 14px
+  color: #2BBC8A
+  overflow: hidden
+  position: relative
+
+  -moz-transform: translateX(100%)
+  -webkit-transform: translateX(100%)
+  transform: translateX(100%)
+  -moz-animation: example1 7s linear infinite
+  -webkit-animation: example1 7s linear infinite
+  animation: example1 7s linear infinite
+
+  @-webkit-keyframes example1 {
+    0%   { -webkit-transform: translateX(100%); }
+    100% { -webkit-transform: translateX(-100%); }
+  }
+  @keyframes example1 {
+    0%   { 
+     -moz-transform: translateX(100%); /* Firefox bug fix */
+     -webkit-transform: translateX(100%); /* Firefox bug fix */
+     transform: translateX(100%);     
+     }
+    100% { 
+      -moz-transform: translateX(-100%); /* Firefox bug fix */
+      -webkit-transform: translateX(-100%); /* Firefox bug fix */
+      transform: translateX(-100%); 
+    }
+  }
+
+
+
+
+
   
   
 
